@@ -1,4 +1,4 @@
-package Odev_Practices;
+package Odev_Practices.day01;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
