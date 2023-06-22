@@ -1,4 +1,4 @@
-package Odev_Practices.Burak_Hoca;
+package Odev_Practices.Burak_Hoca.day05_XpathCssSelector;
 
 public class Tekrar_testi {
 

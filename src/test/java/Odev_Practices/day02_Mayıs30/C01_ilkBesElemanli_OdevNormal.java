@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 import java.util.List;
 
-public class gitup {
+public class C01_ilkBesElemanli_OdevNormal {
 
     public static void main(String[] args) throws InterruptedException {
 
@@ -35,7 +35,6 @@ public class gitup {
         System.out.println(sonucSayisi[2]);
 
         //çıkan ürünlerden ilk 5 tanesine tıklayıp sayfa başlıklarını yazdırınız.
-        //List<WebElement> products = driver.findElements(By.className("s-image"));
 
         for (int i = 0; i < 5 ; i++) {
             List<WebElement> urunler = driver.findElements(By.className("s-image"));

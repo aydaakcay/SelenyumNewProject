@@ -1,4 +1,4 @@
-package Odev_Practices.Burak_Hoca;
+package Odev_Practices.Burak_Hoca.day05_XpathCssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

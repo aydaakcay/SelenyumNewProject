@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 import java.util.List;
 
-public class C01_ilkBesElemanli_Odev {
+public class C01_ilkBesElemanli_OdevXPath {
 
     public static void main(String[] args) throws InterruptedException {
 
